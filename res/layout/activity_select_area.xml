@@ -1,0 +1,122 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    android:orientation="vertical" >
+    
+     <ImageView
+         android:id="@+id/imageView1"
+         android:layout_width="match_parent"
+         android:layout_height="60dp"
+         android:layout_gravity="center"
+         android:layout_marginTop="60dp"
+         android:contentDescription="@string/company"
+         android:src="@drawable/kat_logo" />
+    
+   <LinearLayout
+       android:layout_width="240dp"
+       android:layout_height="80dp"
+       android:layout_gravity="center"
+       android:layout_marginTop="20dp"
+       android:orientation="vertical" >
+
+       <TextView
+           android:id="@+id/volunteer_view"
+           android:layout_width="match_parent"
+           android:layout_height="35dp"
+           android:layout_gravity="center"
+           android:background="@drawable/blue_bar"
+           android:gravity="center"
+           android:text="@string/select_your_const_area"
+           android:textAppearance="?android:attr/textAppearanceMedium"
+           android:textColor="@color/snow"
+           android:textSize="22sp" />
+       
+           <Spinner
+               android:id="@+id/area_spinner"
+               android:layout_width="match_parent"
+               android:layout_height="match_parent"
+               android:background="@drawable/btn_dropdown"
+               android:gravity="center" />
+
+   </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="240dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/lighter_blue_bar"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/current_mla"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:gravity="center"
+            android:singleLine="true"
+            android:text="@string/current_mla"
+            android:textColor="@color/black"
+            android:textIsSelectable="true"
+            android:textSize="17sp" />
+
+        <TextView
+            android:id="@+id/current_party"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="6dp"
+            android:gravity="center"
+            android:singleLine="true"
+            android:text="@string/current_party"
+            android:textColor="@color/black"
+            android:textIsSelectable="true"
+            android:textSize="17sp" />
+
+        <LinearLayout
+            android:id="@+id/layout_area_2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginBottom="15dp"
+            android:layout_marginTop="15dp"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:text="@string/write_area_name"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="@color/white" />
+
+            <EditText
+                android:id="@+id/input_area_2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:background="@drawable/edit_candidate_row"
+                android:ems="10"
+                android:inputType="textPersonName" >
+
+                <requestFocus />
+            </EditText>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/go_next_3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right"
+        android:layout_marginRight="25dp"
+        android:layout_marginTop="25dp"
+        android:src="@drawable/arrow"
+        android:contentDescription="@string/click_it"
+        android:onClick="onClick" />
+
+</LinearLayout>

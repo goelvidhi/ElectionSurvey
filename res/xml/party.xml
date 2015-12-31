@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<partys version = "1">
+    
+    
+    <party party_hindi = "कांग्रेस" />
+    
+    <party party_hindi = "भाजपा" />
+    
+    <party party_hindi = "बसपा" />
+    
+    <party party_hindi = "सीपीएम" />
+    
+    <party party_hindi = " समाजवादी पार्टी" />
+    
+    <party party_hindi = "राजपा" />
+    
+    <party party_hindi = "आम आदमी पार्टी" />
+    
+    <party party_hindi = "जागो पार्टी" />
+    
+    <party party_hindi = "जमीदार पार्टी" />
+    
+    <party party_hindi = "अन्य"  />
+    
+    
+</partys>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.electionsurvey"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk android:minSdkVersion="9" android:targetSdkVersion="15" />
+
+
+<uses-feature android:name="android.hardware.camera" />
+<uses-permission android:name="android.permission.CAMERA" />
+<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+<uses-permission android:name="android.permission.INTERNET"/>  
+
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/kat_logo"
+        android:label="@string/app_name_2"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.example.electionsurvey.MainActivity"
+            android:label="@string/app_name_2" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+               <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+ 
+         <activity
+            android:name="com.example.electionsurvey.LoginActivity"
+            android:label="@string/app_name_2" >
+         </activity>
+
+          <activity
+            android:name="com.example.electionsurvey.LoginActivity_2"
+            android:label="@string/app_name_2" >
+         </activity>
+         
+          <activity
+            android:name="com.example.electionsurvey.VolunteerEntryActivity"
+            android:label="@string/app_name_2" >
+         </activity>
+         
+         
+         <activity
+            android:name="com.example.electionsurvey.SelectAreaActivity"
+            android:label="@string/app_name_2" >
+         </activity>
+         
+         <service 
+           android:name = "com.example.electionsurvey.UploadService"
+            android:label="@string/app_name_2">
+         </service>
+         
+          <activity
+            android:name="com.example.electionsurvey.InputCandidateActivity"
+            android:label="@string/app_name_2" >
+         </activity>
+         
+         
+         <activity
+            android:name="com.example.electionsurvey.VoteTabActivity"
+            android:label="@string/app_name_2" android:noHistory="true" >
+         </activity>
+         
+         <activity
+            android:name="com.example.electionsurvey.VoteForCMActivity"
+            android:label="@string/app_name_2" >
+         </activity>
+         
+         <activity
+            android:name="com.example.electionsurvey.VoteForPartyActivity"
+            android:label="@string/app_name_2" >
+         </activity>
+         
+         <activity
+            android:name="com.example.electionsurvey.VoteForMlaActivity"
+            android:label="@string/app_name_2" >
+         </activity>
+         
+                  <activity
+            android:name="com.example.electionsurvey.ThankYouActivity"
+            android:label="@string/app_name_2" >
+         </activity>
+         
+         
+		<provider
+   		 android:authorities="com.example.electionsurvey"
+   		 android:multiprocess="true"
+   		 android:name="com.example.electionsurvey.providers.SurveyProvider">
+    
+		</provider>
+    
+    </application>
+
+</manifest>

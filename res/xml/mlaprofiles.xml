@@ -1,0 +1,1809 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<constituencys version = '1'>
+
+<constituency id = '1'
+area_hindi = 'सादुलशहर (गंगानगर)'
+special_category = ''
+area_english = "Sadulshahar, District - Ganganagar"
+mla_hindi = 'संतोष कुमार सहारन'
+mla_english = 'Sh Santosh Kumar Saharan'
+party_english = 'Indian National Congress' 
+party_hindi = 'कांग्रेस'
+/> 
+ 
+<constituency id = '2'
+area_hindi = 'गंगानगर (गंगानगर)'
+special_category = ''
+area_english = "Ganganagar, District - Ganganagar"
+mla_hindi = 'राधेश्याम गंगानगर'
+mla_english = 'Sh Radhey Shyam Ganganagar'
+party_english = 'Bharatiya Janata Party' 
+party_hindi = 'भाजपा'/> 
+ 
+<constituency id = '3'
+area_hindi = 'करणपुर (गंगानगर)'
+special_category = ''
+area_english = "Karanpur, District - Ganganagar"
+mla_hindi = 'गुरमीत सिंह कुन्नर'
+mla_english = 'Sh Gurmeet Singh Kunnar'
+party_english = 'Independent' 
+party_hindi = 'निर्दलीय'/> 
+ 
+<constituency id = '4'
+area_hindi = 'सूरतगढ़ (गंगानगर)'
+special_category = ''
+area_english = "Suratgarh, District - Ganganagar"
+mla_hindi = 'गंगाजल मील'
+mla_english = 'Sh Ganga Jal Meel'
+party_english = 'Indian National Congress' 
+party_hindi = 'कांग्रेस' 
+
+/> 
+ 
+<constituency id = '5'
+area_hindi = 'रायसिंहनगर (गंगानगर)'
+special_category = 'SC'
+area_english = "Raisinghnagar (SC), District - Ganganagar"
+mla_hindi = 'दौलतराज समेजा '
+mla_english = 'Sh Daulat Raj Sameja'
+party_english = 'Indian National Congress' 
+party_hindi = 'कांग्रेस' 
+/> 
+ 
+<constituency id = '6'
+area_hindi = 'अनूपगढ़ (गंगानगर)'
+special_category = 'SC'
+area_english = "Anupgarh (SC), District - Ganganagar"
+mla_hindi = 'पवन दुग्गल'
+mla_english = 'Sh Pawan Duggal'
+party_english = 'Communist Party of India (Marxist)' 
+party_hindi = 'माकपा'/> 
+ 
+<constituency id = '7'
+area_hindi = 'संगरिया (हनुमानगढ़)'
+special_category = ''
+area_english = "Sangaria, District - Hanumangargh"
+mla_hindi = 'डा परमनवदीप सिंह'
+mla_english = 'Dr. (Smt.) Paramnavadeep Singh'
+party_english = 'Indian National Congress' 
+party_hindi = 'कांग्रेस'/> 
+ 
+<constituency id = '8'
+area_hindi = 'हनुमानगढ़ (हनुमानगढ़)'
+special_category = ''
+area_english = "Hanumangarh, District - Hanumangargh"
+mla_hindi = '"विनोद कुमार ""लीलांवाली"""'
+mla_english = '"Sh Vinod Kumar ""Leelanwali"""'
+party_english = 'Indian National Congress' 
+party_hindi = 'कांग्रेस'/> 
+ 
+<constituency id = '9'
+area_hindi = 'पीलीबंगा (हनुमानगढ़)'
+special_category = 'SC'
+area_english = "Pilibanga (SC), District - Hanumangargh"
+mla_hindi = 'आदराम मेघवाल'
+mla_english = 'Sh Aadram Meghwal'
+party_english = 'Indian National Congress' 
+party_hindi = 'कांग्रेस'/> 
+ 
+<constituency id = '10'
+area_hindi = 'नोहर (हनुमानगढ़)'
+special_category = ''
+area_english = "Nohar, District - Hanumangargh"
+mla_hindi = 'अभिषेक मटोरिया '
+mla_english = 'Sh Abhishek Matoria'
+party_english = 'Bharatiya Janata Party' 
+party_hindi = 'भाजपा'/> 
+ 
+<constituency id = '11'
+area_hindi = 'भादरा (हनुमानगढ़)'
+special_category = ''
+area_english = "Bhadra, District - Hanumangargh"
+mla_hindi = 'जयदीप'
+mla_english = 'Sh Jaideep'
+party_english = 'Independent' 
+party_hindi = 'निर्दलीय'/> 
+ 
+<constituency id = '12'
+area_hindi = 'खाजूवाला (बीकानेर)'
+special_category = 'SC'
+area_english = "Khajuwala (SC), District - Bikaner"
+mla_hindi = 'डॉ. विश्वनाथ मेघवाल'
+mla_english = 'Dr. Vishwanath Meghwal'
+party_english = 'Bharatiya Janata Party' 
+party_hindi = 'भाजपा'/> 
+ 
+<constituency id = '13'
+area_hindi = 'बीकानेर पश्चिम (बीकानेर)'
+special_category = ''
+area_english = "Bikaner West, District - Bikaner"
+mla_hindi = 'डॉ गोपाल जोशी'
+mla_english = 'Dr. Gopal Joshi'
+party_english = 'Bharatiya Janata Party' 
+party_hindi = 'भाजपा'/> 
+ 
+<constituency id = '14'
+area_hindi = 'बीकानेर पूर्व (बीकानेर)'
+special_category = ''
+area_english = "Bikaner East, District - Bikaner"
+mla_hindi = 'सुश्री सिद्धी कुमारी'
+mla_english = 'Ms Sidhi Kumari'
+party_english = 'Bharatiya Janata Party' 
+party_hindi = 'भाजपा'/> 
+ 
+<constituency id = '15'
+area_hindi = 'कोलायत (बीकानेर)'
+special_category = ''
+area_english = "Kolayat, District - Bikaner"
+mla_hindi = 'देवीसिंह भाटी'
+mla_english = 'Sh Devi Singh Bhati'
+party_english = 'Bharatiya Janata Party' 
+party_hindi = 'भाजपा'/> 
+ 
+<constituency id = '16'
+area_hindi = 'लूणकरणसर (बीकानेर)'
+special_category = ''
+area_english = "Lunkaransar, District - Bikaner"
+mla_hindi = 'वीरेन्द्र बेनीवाल '
+mla_english = 'Sh Virendra Beniwal'
+party_english = 'Indian National Congress' 
+party_hindi = 'कांग्रेस'/> 
+ 
+<constituency id = '17'
+area_hindi = 'डूंगरगढ़ (बीकानेर)'
+special_category = ''
+area_english = "Dungargarh, District - Bikaner"
+mla_hindi = 'मंगलाराम गोदारा'
+mla_english = 'Sh Manglaram Godara'
+party_english = 'Indian National Congress' 
+party_hindi = 'कांग्रेस'/> 
+ 
+<constituency id = '18'
+area_hindi = 'नोखा (बीकानेर)'
+special_category = ''
+area_english = "Nokha, District - Bikaner"
+mla_hindi = 'कन्हैयालाल झंवर'
+mla_english = 'Sh Kanhaiya Lal Jhanwar'
+party_english = 'Independent' 
+party_hindi = 'निर्दलीय'/> 
+ 
+<constituency id = '19'
+area_hindi = 'सादुलपुर (चूरू)'
+special_category = ''
+area_english = "Sadulpur, District - Churu"
+mla_hindi = 'कमला कस्वां'
+mla_english = 'Smt Kamla Kaswan'
+party_english = 'Bharatiya Janata Party' 
+party_hindi = 'भाजपा'/> 
+ 
+<constituency id = '20'
+area_hindi = 'तारानगर (चूरू)'
+special_category = ''
+area_english = "Taranagar, District - Churu"
+mla_hindi = 'राजेंद्र राठौड़'
+mla_english = 'Sh Rajendra Rathore'
+party_english = 'Bharatiya Janata Party' 
+party_hindi = 'भाजपा'/> 
+ 
+<constituency id = '21'
+area_hindi = 'सरदारशहर (चूरू)'
+special_category = ''
+area_english = "Sardarshahar, District - Churu"
+mla_hindi = 'अशोक पींचा'
+mla_english = 'Sh Ashok Peencha'
+party_english = 'Bharatiya Janata Party' 
+party_hindi = 'भाजपा'/> 
+ 
+<constituency id = '22'
+area_hindi = 'चूरू (चूरू)'
+special_category = ''
+area_english = "Churu, District - Churu"
+mla_hindi = 'हाजी मकबूल मण्डेलिया'
+mla_english = 'Sh Hazi Maqbool Mandelia'
+party_english = 'Indian National Congress' 
+party_hindi = 'कांग्रेस'/> 
+ 
+<constituency id = '23'
+area_hindi = 'रतनगढ़ (चूरू)'
+special_category = ''
+area_english = "Ratangarh, District - Churu"
+mla_hindi = 'राजकुमार रंणवा'
+mla_english = 'Raj Kumar Rinwa'
+party_english = 'Bharatiya Janata Party' 
+party_hindi = 'भाजपा'/> 
+ 
+<constituency id = '24'
+area_hindi = 'सुजानगढ़ (चूरू)'
+special_category = 'SC'
+area_english = "Sujangarh (SC), District - Churu"
+mla_hindi = 'मास्टर भंवरलाल मेघवाल'
+mla_english = 'Sh Master Bhanwarlal Meghwal'
+party_english = 'Indian National Congress' 
+party_hindi = 'कांग्रेस'/> 
+ 
+<constituency id = '25'
+area_hindi = 'पिलानी (झुंझुनूं)'
+special_category = 'SC'
+area_english = "Pilani (SC), District - Jhunjhunu"
+mla_hindi = 'सुन्दर लाल'
+mla_english = 'Sh Sunder Lal'
+party_english = 'Bharatiya Janata Party' 
+party_hindi = 'भाजपा'/> 
+ 
+<constituency id = '26'
+area_hindi = 'सूरजगढ़ (झुंझुनूं)'
+special_category = ''
+area_english = "Surajgarh, District - Jhunjhunu"
+mla_hindi = 'श्रवण कुमार'
+mla_english = 'Sh Sharwan Kumar'
+party_english = 'Indian National Congress' 
+party_hindi = 'कांग्रेस'/> 
+ 
+<constituency id = '27'
+area_hindi = 'झुंझुनूं (झुंझुनूं)'
+special_category = ''
+area_english = "Jhunjhunu, District - Jhunjhunu"
+mla_hindi = 'बृजेन्द्र सिंह ओला'
+mla_english = 'Sh Brijendra Singh Ola'
+party_english = 'Indian National Congress' 
+party_hindi = 'कांग्रेस'/> 
+ 
+<constituency id = '28'
+area_hindi = 'मण्डावा (झुंझुनूं)'
+special_category = ''
+area_english = "Mandawa, District - Jhunjhunu"
+mla_hindi = 'कुमारी रीटा चौधरी'
+mla_english = 'Ms Rita Choudhary'
+party_english = 'Indian National Congress' 
+party_hindi = 'कांग्रेस'/> 
+ 
+<constituency id = '29'
+area_hindi = 'नवलगढ़ (झुंझुनूं)'
+special_category = ''
+area_english = "Nawalgarh, District - Jhunjhunu"
+mla_hindi = 'डॉ राजकुमार शर्मा'
+mla_english = 'Dr Rajkumar Sharma'
+party_english = 'Indian National Congress' 
+party_hindi = 'कांग्रेस'/> 
+ 
+<constituency id = '30'
+area_hindi = 'उदयपुरवाटी (झुंझुनूं)'
+special_category = ''
+area_english = "Udaipurwati, District - Jhunjhunu"
+mla_hindi = 'राजेंद्र सिंह गुढा'
+mla_english = 'Sh Rajendra Singh Gudha'
+party_english = 'Indian National Congress' 
+party_hindi = 'कांग्रेस'/> 
+ 
+<constituency id = '31'
+area_hindi = 'खेतड़ी (झुंझुनूं)'
+special_category = ''
+area_english = "Khetri, District - Jhunjhunu"
+mla_hindi = 'जितेन्द्र सिंह'
+mla_english = 'Dr. Jitendra Singh'
+party_english = 'Indian National Congress' 
+party_hindi = 'कांग्रेस'/> 
+ 
+<constituency id = '32'
+area_hindi = 'फतेहपुर (सीकर)'
+special_category = ''
+area_english = "Fatehpur, District - Sikar"
+mla_hindi = 'भंवरु खान'
+mla_english = 'Sh Bhanwaru Khan'
+party_english = 'Indian National Congress' 
+party_hindi = 'कांग्रेस'/> 
+ 
+<constituency id = '33'
+area_hindi = 'लक्ष्मणगढ़ (सीकर)'
+special_category = ''
+area_english = "Lachmangarh, District - Sikar"
+mla_hindi = 'गोविन्द सिंह डोटासरा'
+mla_english = 'Sh Govind Singh Dotasra'
+party_english = 'Indian National Congress' 
+party_hindi = 'कांग्रेस'/> 
+ 
+<constituency id = '34'
+area_hindi = 'धोद (सीकर)'
+special_category = 'SC'
+area_english = "Dhod (SC), District - Sikar"
+mla_hindi = 'पेमाराम'
+mla_english = 'Sh Pemaram'
+party_english = 'Communist Party of India (Marxist)' 
+party_hindi = 'माकपा'/> 
+ 
+<constituency id = '35'
+area_hindi = 'सीकर (सीकर)'
+special_category = ''
+area_english = "Sikar, District - Sikar"
+mla_hindi = 'राजेंद्र पारीक'
+mla_english = 'Sh Rajendra Pareek'
+party_english = 'Indian National Congress' 
+party_hindi = 'कांग्रेस'/> 
+ 
+<constituency id = '36'
+area_hindi = 'दांतारामगढ़ (सीकर)'
+special_category = ''
+area_english = "Dantaramgarh, District - Sikar"
+mla_hindi = 'अमरा राम '
+mla_english = 'Sh Amra Ram'
+party_english = 'Communist Party of India (Marxist)' 
+party_hindi = 'माकपा'/> 
+ 
+<constituency id = '37'
+area_hindi = 'खण्डेला (सीकर)'
+special_category = ''
+area_english = "Khandela, District - Sikar"
+mla_hindi = 'बंशीधर बाजिया'
+mla_english = 'Sh Banshi Dhar Khandela'
+party_english = 'Bharatiya Janata Party' 
+party_hindi = 'भाजपा'/> 
+ 
+<constituency id = '38'
+area_hindi = 'नीम का थाना (सीकर)'
+special_category = ''
+area_english = "Neem Ka Thana, District - Sikar"
+mla_hindi = 'रमेश खण्डेलवाल'
+mla_english = 'Sh Ramesh Khandelwal'
+party_english = 'Indian National Congress' 
+party_hindi = 'कांग्रेस'/> 
+ 
+<constituency id = '39'
+area_hindi = 'श्रीमाधोपुर (सीकर)'
+special_category = ''
+area_english = "Srimadhopur, District - Sikar"
+mla_hindi = 'दीपेन्द्र सिंह शेखावत'
+mla_english = 'Sh Deependra Singh Shekhawat'
+party_english = 'Indian National Congress' 
+party_hindi = 'कांग्रेस'/> 
+ 
+<constituency id = '40'
+area_hindi = 'कोटपूतली (जयपुर)'
+special_category = ''
+area_english = "Kotputli, District - Jaipur"
+mla_hindi = 'रामस्वरूप कसाना'
+mla_english = 'Sh Ramswaroop Ksana'
+party_english = 'Loktantrik Samajwadi Party' 
+party_hindi = 'लोसपा'/> 
+ 
+<constituency id = '41'
+area_hindi = 'विराटनगर (जयपुर)'
+special_category = ''
+area_english = "Viratnagar, District - Jaipur"
+mla_hindi = 'डॉ. फूल चन्द भिण्डा'
+mla_english = 'Dr. Phool Chand Bhinda'
+party_english = 'Bharatiya Janata Party' 
+party_hindi = 'भाजपा'/> 
+ 
+<constituency id = '42'
+area_hindi = 'शाहपुरा (जयपुर)'
+special_category = ''
+area_english = "Shahpura, District - Jaipur"
+mla_hindi = 'राव राजेंद्र सिंह'
+mla_english = 'Sh Rao Rajendra Singh'
+party_english = 'Bharatiya Janata Party' 
+party_hindi = 'भाजपा'/> 
+ 
+<constituency id = '43'
+area_hindi = 'चौमूं (जयपुर)'
+special_category = ''
+area_english = "Chomu, District - Jaipur"
+mla_hindi = 'भगवान सहाय सैनी'
+mla_english = 'Sh Bhagwan Sahay Saini'
+party_english = 'Indian National Congress' 
+party_hindi = 'कांग्रेस'/> 
+ 
+<constituency id = '44'
+area_hindi = 'फुलेरा (जयपुर)'
+special_category = ''
+area_english = "Phulera, District - Jaipur"
+mla_hindi = 'निर्मल कुमावत'
+mla_english = 'Sh Nirmal Kumawat'
+party_english = 'Bharatiya Janata Party' 
+party_hindi = 'भाजपा'/> 
+ 
+<constituency id = '45'
+area_hindi = 'दूदू (जयपुर)'
+special_category = 'SC'
+area_english = "Dudu (SC), District - Jaipur"
+mla_hindi = 'बाबुलाल नागर'
+mla_english = 'Sh Babu Lal Nagar'
+party_english = 'Indian National Congress' 
+party_hindi = 'कांग्रेस'/> 
+ 
+<constituency id = '46'
+area_hindi = 'झोटवाड़ा (जयपुर)'
+special_category = ''
+area_english = "Jhotwara, District - Jaipur"
+mla_hindi = 'राजपाल सिंह शेखावत'
+mla_english = 'Sh Rajpal Singh Shekhawat'
+party_english = 'Bharatiya Janata Party' 
+party_hindi = 'भाजपा'/> 
+ 
+<constituency id = '47'
+area_hindi = 'आमेर (जयपुर)'
+special_category = ''
+area_english = "Amber, District - Jaipur"
+mla_hindi = 'गंगा सहाय शर्मा'
+mla_english = 'Sh Ganga Sahay Sharma'
+party_english = 'Indian National Congress' 
+party_hindi = 'कांग्रेस'/> 
+ 
+<constituency id = '48'
+area_hindi = 'जमवारामगढ़ (जयपुर)'
+special_category = 'ST'
+area_english = "Jamwa Ramgarh (ST), District - Jaipur"
+mla_hindi = 'गोपाल मीणा'
+mla_english = 'Sh Gopal Meena'
+party_english = 'Indian National Congress' 
+party_hindi = 'कांग्रेस'/> 
+ 
+<constituency id = '49'
+area_hindi = 'हवामहल (जयपुर)'
+special_category = ''
+area_english = "Hawamahal, District - Jaipur"
+mla_hindi = 'बृजकिशोर शर्मा'
+mla_english = 'Sh Brij Kishore Sharma'
+party_english = 'Indian National Congress' 
+party_hindi = 'कांग्रेस'/> 
+ 
+<constituency id = '50'
+area_hindi = 'विधाधर नगर (जयपुर)'
+special_category = ''
+area_english = "Vidhyadhar Nagar, District - Jaipur"
+mla_hindi = 'नरपत सिंह राजवी'
+mla_english = 'Sh Narpat Singh Rajvi'
+party_english = 'Bharatiya Janata Party' 
+party_hindi = 'भाजपा'/> 
+ 
+<constituency id = '51'
+area_hindi = 'सिविल लाईन्स (जयपुर)'
+special_category = ''
+area_english = "Civil Lines, District - Jaipur"
+mla_hindi = 'प्रताप सिंह खाचरियावास'
+mla_english = 'Sh Pratap Singh Khachariyawas'
+party_english = 'Indian National Congress' 
+party_hindi = 'कांग्रेस'/> 
+ 
+<constituency id = '52'
+area_hindi = 'किशनपोल (जयपुर)'
+special_category = ''
+area_english = "Kishanpole, District - Jaipur"
+mla_hindi = 'मोहन लाल गुप्ता'
+mla_english = 'Sh Mohan Lal Gupta'
+party_english = 'Bharatiya Janata Party' 
+party_hindi = 'भाजपा'/> 
+ 
+<constituency id = '53'
+area_hindi = 'आदर्श नगर (जयपुर)'
+special_category = ''
+area_english = "Adarsh Nagar, District - Jaipur"
+mla_hindi = 'अशोक परनामी '
+mla_english = 'Sh Ashok Parnami'
+party_english = 'Bharatiya Janata Party' 
+party_hindi = 'भाजपा'/> 
+ 
+<constituency id = '54'
+area_hindi = 'मालवीय नगर (जयपुर)'
+special_category = ''
+area_english = "Malviya Nagar, District - Jaipur"
+mla_hindi = 'कालीचरण सराफ'
+mla_english = 'Sh Kali Charan Saraf'
+party_english = 'Bharatiya Janata Party' 
+party_hindi = 'भाजपा'/> 
+ 
+<constituency id = '55'
+area_hindi = 'सांगानेर (जयपुर)'
+special_category = ''
+area_english = "Sanganer, District - Jaipur"
+mla_hindi = 'घनश्याम तिवारी'
+mla_english = 'Sh Ghanshyam Tiwari'
+party_english = 'Bharatiya Janata Party' 
+party_hindi = 'भाजपा'/> 
+ 
+<constituency id = '56'
+area_hindi = 'बगरू (जयपुर)'
+special_category = 'SC'
+area_english = "Bagru (SC), District - Jaipur"
+mla_hindi = 'गंगा देवी'
+mla_english = 'Smt Ganga Devi'
+party_english = 'Indian National Congress' 
+party_hindi = 'कांग्रेस'/> 
+ 
+<constituency id = '57'
+area_hindi = 'बस्सी (जयपुर)'
+special_category = 'ST'
+area_english = "Bassi (ST), District - Jaipur"
+mla_hindi = 'अंजू देवी धानका'
+mla_english = 'Smt Anju Devi Dhanka'
+party_english = 'Independent' 
+party_hindi = 'निर्दलीय'/> 
+ 
+<constituency id = '58'
+area_hindi = 'चाकसू (जयपुर)'
+special_category = 'SC'
+area_english = "Chaksu (SC), District - Jaipur"
+mla_hindi = 'प्रोमिला कुण्डारा'
+mla_english = 'Smt Promila Kundara'
+party_english = 'Bharatiya Janata Party' 
+party_hindi = 'भाजपा'/> 
+ 
+<constituency id = '59'
+area_hindi = 'तिजारा (अलवर)'
+special_category = ''
+area_english = "Tijara, District - Alwar"
+mla_hindi = 'ऐमादुद्दीन अहमद खान (दुरूमिंया)'
+mla_english = 'Sh Aimaduddin Ahmad Khan (Durrumiyan)'
+party_english = 'Indian National Congress' 
+party_hindi = 'कांग्रेस'/> 
+ 
+<constituency id = '60'
+area_hindi = 'किशनगढ़ बास (अलवर)'
+special_category = ''
+area_english = "Kishangarh Bas, District - Alwar"
+mla_hindi = 'रामहेत यादव'
+mla_english = 'Sh Ramhet Singh'
+party_english = 'Bharatiya Janata Party' 
+party_hindi = 'भाजपा'/> 
+ 
+<constituency id = '61'
+area_hindi = 'मुण्डावर (अलवर)'
+special_category = ''
+area_english = "Mundawar, District - Alwar"
+mla_hindi = 'मेजर ओ पी यादव'
+mla_english = 'Sh Major O P Yadav'
+party_english = 'Indian National Congress' 
+party_hindi = 'कांग्रेस'/> 
+ 
+<constituency id = '62'
+area_hindi = 'बहरोड़ (अलवर)'
+special_category = ''
+area_english = "Behror, District - Alwar"
+mla_hindi = 'जसवंत सिंह यादव'
+mla_english = 'Dr. Jaswant Singh Yadav'
+party_english = 'Bharatiya Janata Party' 
+party_hindi = 'भाजपा'/> 
+ 
+<constituency id = '63'
+area_hindi = 'बानसूर (अलवर)'
+special_category = ''
+area_english = "Bansur, District - Alwar"
+mla_hindi = 'रोहिताश कुमार'
+mla_english = 'Sh. Rohitash Kumar'
+party_english = 'Bharatiya Janata Party' 
+party_hindi = 'भाजपा'/> 
+ 
+<constituency id = '64'
+area_hindi = 'थानागाजी (अलवर)'
+special_category = ''
+area_english = "Thanagazi, District - Alwar"
+mla_hindi = 'हेमसिंह भडाना '
+mla_english = 'Sh Hem Singh Bhadana'
+party_english = 'Bharatiya Janata Party' 
+party_hindi = 'भाजपा'/> 
+ 
+<constituency id = '65'
+area_hindi = 'अलवर ग्रामीण (अलवर)'
+special_category = 'SC'
+area_english = "Alwar Rural (SC), District - Alwar"
+mla_hindi = 'टीकाराम जूली'
+mla_english = 'Sh Tikaram Julee'
+party_english = 'Indian National Congress' 
+party_hindi = 'कांग्रेस'/> 
+ 
+<constituency id = '66'
+area_hindi = 'अलवर शहर (अलवर)'
+special_category = ''
+area_english = "Alwar Urban, District - Alwar"
+mla_hindi = 'बनवारी लाल सिंघल'
+mla_english = 'Sh Banwari Lal Singhal'
+party_english = 'Bharatiya Janata Party' 
+party_hindi = 'भाजपा'/> 
+ 
+<constituency id = '67'
+area_hindi = 'रामगढ़ (अलवर)'
+special_category = ''
+area_english = "Ramgarh, District - Alwar"
+mla_hindi = 'ज्ञानदेव आहूजा'
+mla_english = 'Sh Gyan Dev Ahuja'
+party_english = 'Bharatiya Janata Party' 
+party_hindi = 'भाजपा'/> 
+ 
+<constituency id = '68'
+area_hindi = 'राजगढ़-लक्ष्मणगढ़ (अलवर)'
+special_category = 'ST'
+area_english = "Rajgarh-Laxmangarh (ST), District - Alwar"
+mla_hindi = 'सूरजभान धानका '
+mla_english = 'Sh Suraj Bhan Dhanka'
+party_english = 'Samajwadi Party' 
+party_hindi = 'समाजवादी पार्टी'/> 
+ 
+<constituency id = '69'
+area_hindi = 'कठूमर (अलवर)'
+special_category = 'SC'
+area_english = "Kathumar (SC), District - Alwar"
+mla_hindi = 'बाबूलाल बैरवा'
+mla_english = 'Sh Babulal Bairwa'
+party_english = 'Bharatiya Janata Party' 
+party_hindi = 'भाजपा'/> 
+ 
+<constituency id = '70'
+area_hindi = 'कामां (भरतपुर)'
+special_category = ''
+area_english = "Kaman, District - Bharatpur"
+mla_hindi = 'जाहिदा खान '
+mla_english = 'Smt Zahida Khan'
+party_english = 'Indian National Congress' 
+party_hindi = 'कांग्रेस'/> 
+ 
+<constituency id = '71'
+area_hindi = 'नगर (भरतपुर)'
+special_category = ''
+area_english = "Nagar, District - Bharatpur"
+mla_hindi = 'अनीता सिंह'
+mla_english = 'Smt Anita Singh'
+party_english = 'Bharatiya Janata Party' 
+party_hindi = 'भाजपा'/> 
+ 
+<constituency id = '72'
+area_hindi = 'डीग-कुम्हेर (भरतपुर)'
+special_category = ''
+area_english = "Deeg-Kumher, District - Bharatpur"
+mla_hindi = 'दिगम्बर सिंह '
+mla_english = 'Dr. Digamber Singh'
+party_english = 'Bharatiya Janata Party' 
+party_hindi = 'भाजपा'/> 
+ 
+<constituency id = '73'
+area_hindi = 'भरतपुर (भरतपुर)'
+special_category = ''
+area_english = "Bharatpur, District - Bharatpur"
+mla_hindi = 'विजय बंसल'
+mla_english = 'Sh Vijay Bansal'
+party_english = 'Bharatiya Janata Party' 
+party_hindi = 'भाजपा'/> 
+ 
+<constituency id = '74'
+area_hindi = 'नदबई (भरतपुर)'
+special_category = ''
+area_english = "Nadbai, District - Bharatpur"
+mla_hindi = 'कृष्णेन्द्र कौर (दीपा)'
+mla_english = '"Smt Krishnedra Kaur ""Deepa"""'
+party_english = 'Bharatiya Janata Party' 
+party_hindi = 'भाजपा'/> 
+ 
+<constituency id = '75'
+area_hindi = 'वैर (भरतपुर)'
+special_category = 'SC'
+area_english = "Weir (SC), District - Bharatpur"
+mla_hindi = 'बहादुर सिंह'
+mla_english = 'Sh Bahadur Singh'
+party_english = 'Bharatiya Janata Party' 
+party_hindi = 'भाजपा'/> 
+ 
+<constituency id = '76'
+area_hindi = 'बयाना (भरतपुर)'
+special_category = 'SC'
+area_english = " Bayana (SC), District - Bharatpur"
+mla_hindi = 'ग्यारसाराम कोली'
+mla_english = 'Sh Gyarsaram Koli'
+party_english = 'Bharatiya Janata Party' 
+party_hindi = 'भाजपा'/> 
+ 
+<constituency id = '77'
+area_hindi = 'बसेड़ी (धोलपुर)'
+special_category = 'SC'
+area_english = "Baseri (SC), District - Dholpur"
+mla_hindi = 'सुखराम'
+mla_english = 'Sh Sukhram'
+party_english = 'Bharatiya Janata Party' 
+party_hindi = 'भाजपा'/> 
+ 
+<constituency id = '78'
+area_hindi = 'बाड़ी (धोलपुर)'
+special_category = ''
+area_english = "Bari, District - Dholpur"
+mla_hindi = 'गिर्राज सिंह'
+mla_english = 'Sh Girraj Singh'
+party_english = 'Indian National Congress' 
+party_hindi = 'कांग्रेस'/> 
+ 
+<constituency id = '79'
+area_hindi = 'धौलपुर (धोलपुर)'
+special_category = ''
+area_english = "Dholpur, District - Dholpur"
+mla_hindi = 'अब्दुल सगीर खाँ'
+mla_english = 'Sh Abdul Sageer Khan'
+party_english = 'Bharatiya Janata Party' 
+party_hindi = 'भाजपा'/> 
+ 
+<constituency id = '80'
+area_hindi = 'राजाखेड़ा (धोलपुर)'
+special_category = ''
+area_english = "Rajakhera, District - Dholpur"
+mla_hindi = 'रवीन्द्र सिंह बोहरा'
+mla_english = 'Sh Raveendra Singh Bohra'
+party_english = 'Bharatiya Janata Party' 
+party_hindi = 'भाजपा'/> 
+ 
+<constituency id = '81'
+area_hindi = 'टोडाभीम (करौली)'
+special_category = 'ST'
+area_english = "Todabhim (ST), District - Karauli"
+mla_hindi = 'रमेश चन्द मीणा'
+mla_english = 'Sh Ramesh Chand Meena'
+party_english = 'Bharatiya Janata Party' 
+party_hindi = 'भाजपा'/> 
+ 
+<constituency id = '82'
+area_hindi = 'हिण्डौन (करौली)'
+special_category = 'SC'
+area_english = "Hindaun (SC), District - Karauli"
+mla_hindi = 'भरोसीलाल'
+mla_english = 'Sh Bharosi Lal'
+party_english = 'Indian National Congress' 
+party_hindi = 'कांग्रेस'/> 
+ 
+<constituency id = '83'
+area_hindi = 'करौली (करौली)'
+special_category = ''
+area_english = "Karauli, District - Karauli"
+mla_hindi = 'रोहिणी कुमारी'
+mla_english = 'Smt Rohini Kumari'
+party_english = 'Bharatiya Janata Party' 
+party_hindi = 'भाजपा'/> 
+ 
+<constituency id = '84'
+area_hindi = 'सपोटरा (करौली)'
+special_category = 'ST'
+area_english = "Sapotra (ST), District - Karauli"
+mla_hindi = 'रमेश चन्द मीणा'
+mla_english = 'Sh Ramesh Chand Meena'
+party_english = 'Indian National Congress' 
+party_hindi = 'कांग्रेस'/> 
+ 
+<constituency id = '85'
+area_hindi = 'बांदीकुई (दौसा)'
+special_category = ''
+area_english = "Bandikui, District - Dausa"
+mla_hindi = 'राम किशोर सैनी'
+mla_english = 'Sh Ram Kishor Siani'
+party_english = 'Independent' 
+party_hindi = 'निर्दलीय'/> 
+ 
+<constituency id = '86'
+area_hindi = 'महवा (दौसा)'
+special_category = ''
+area_english = "Mahwa (), District - Dausa"
+mla_hindi = 'गोलमा देवी'
+mla_english = 'Smt Golma Devi'
+party_english = 'Independent' 
+party_hindi = 'निर्दलीय'/> 
+ 
+<constituency id = '87'
+area_hindi = 'सिकराय (दौसा)'
+special_category = 'SC'
+area_english = "Sikrai (SC), District - Dausa"
+mla_hindi = 'ममता भूपेश'
+mla_english = 'Smt Mamta Bhupesh'
+party_english = 'Indian National Congress' 
+party_hindi = 'कांग्रेस'/> 
+ 
+<constituency id = '88'
+area_hindi = 'दौसा (दौसा)'
+special_category = ''
+area_english = "Dausa (), District - Dausa"
+mla_hindi = 'मुरारीलाल मीणा'
+mla_english = 'Sh Murari Lal Meena'
+party_english = 'Indian National Congress' 
+party_hindi = 'कांग्रेस'/> 
+ 
+<constituency id = '89'
+area_hindi = 'लालसोट (दौसा)'
+special_category = 'ST'
+area_english = "Lalsot (ST), District - Dausa"
+mla_hindi = 'परसादी लाल मीणा'
+mla_english = 'Sh Parsadi Lal Meena'
+party_english = 'Independent' 
+party_hindi = 'निर्दलीय'/> 
+ 
+<constituency id = '90'
+area_hindi = 'गंगापुर (सवाई माधोपुर)'
+special_category = ''
+area_english = "Gangapur (), District - Sawai Madhopur"
+mla_hindi = 'रामकेश'
+mla_english = 'Sh Ramkesh'
+party_english = 'Indian National Congress' 
+party_hindi = 'कांग्रेस'/> 
+ 
+<constituency id = '91'
+area_hindi = 'बामनवास (सवाई माधोपुर)'
+special_category = 'ST'
+area_english = "Bamanwas (ST), District - Sawai Madhopur"
+mla_hindi = 'नवल किशोर मीणा'
+mla_english = 'Sh Nawal Kishor Meena'
+party_english = 'Indian National Congress' 
+party_hindi = 'कांग्रेस'/> 
+ 
+<constituency id = '92'
+area_hindi = 'सवाई माधोपुर (सवाई माधोपुर)'
+special_category = ''
+area_english = "Sawai Madhopur, District - Sawai Madhopur"
+mla_hindi = 'अलाउद्दीन आजाद'
+mla_english = 'Sh Alauddin Azad'
+party_english = 'Indian National Congress' 
+party_hindi = 'कांग्रेस'/> 
+ 
+<constituency id = '93'
+area_hindi = 'खण्डार (सवाई माधोपुर)'
+special_category = 'SC'
+area_english = "Khandar (SC), District - Sawai Madhopur"
+mla_hindi = 'अशोक बैरवा'
+mla_english = 'Sh Ashok Bairwa Khandar'
+party_english = 'Indian National Congress' 
+party_hindi = 'कांग्रेस'/> 
+ 
+<constituency id = '94'
+area_hindi = 'मालपुरा (टोंक)'
+special_category = ''
+area_english = "Malpura, District - Tonk"
+mla_hindi = 'रणवीर पहलवान'
+mla_english = 'Sh Ranveer Pahalwan'
+party_english = 'Independent' 
+party_hindi = 'निर्दलीय'/> 
+ 
+<constituency id = '95'
+area_hindi = 'निवाई (टोंक)'
+special_category = 'SC'
+area_english = "Niwai (SC), District - Tonk"
+mla_hindi = 'कमल बैरवा '
+mla_english = 'Sh Kamal Bairwa'
+party_english = 'Indian National Congress' 
+party_hindi = 'कांग्रेस'/> 
+ 
+<constituency id = '96'
+area_hindi = 'टोंक (टोंक)'
+special_category = ''
+area_english = "Tonk, District - Tonk"
+mla_hindi = 'जकिया'
+mla_english = 'Smt Zakiya'
+party_english = 'Indian National Congress' 
+party_hindi = 'कांग्रेस'/> 
+ 
+<constituency id = '97'
+area_hindi = 'देवली-उनियारा (टोंक)'
+special_category = ''
+area_english = "Deoli-Uniara (), District - Tonk"
+mla_hindi = 'रामनारायण मीणा'
+mla_english = 'Sh Ramnaraian Meena'
+party_english = 'Indian National Congress' 
+party_hindi = 'कांग्रेस'/> 
+ 
+<constituency id = '98'
+area_hindi = 'किशनगढ़ (अजमेर)'
+special_category = ''
+area_english = "Kishangarh, District - Ajmer"
+mla_hindi = 'नाथूराम सिनोदिया'
+mla_english = 'Sh Nathu Ram Sinodiya'
+party_english = 'Indian National Congress' 
+party_hindi = 'कांग्रेस'/> 
+ 
+<constituency id = '99'
+area_hindi = 'पुष्कर (अजमेर)'
+special_category = ''
+area_english = "Pushkar, District - Ajmer"
+mla_hindi = 'नसीम अख्तर इंसाफ'
+mla_english = 'Smt Naseem Akhtar Insaf'
+party_english = 'Indian National Congress' 
+party_hindi = 'कांग्रेस'/> 
+ 
+<constituency id = '100'
+area_hindi = 'अजमेर उत्तर (अजमेर)'
+special_category = ''
+area_english = "Ajmer North, District - Ajmer"
+mla_hindi = 'वासुदेव देवनानी'
+mla_english = 'Sh Vasudev Devnani'
+party_english = 'Bharatiya Janata Party' 
+party_hindi = 'भाजपा'/> 
+ 
+<constituency id = '101'
+area_hindi = 'अजमेर दक्षिण (अजमेर)'
+special_category = 'SC'
+area_english = "Ajmer South (SC), District - Ajmer"
+mla_hindi = 'श्रीमती अनिता भदेल'
+mla_english = 'Smt Anita Bhadel'
+party_english = 'Bharatiya Janata Party' 
+party_hindi = 'भाजपा'/> 
+ 
+<constituency id = '102'
+area_hindi = 'नसीराबाद (अजमेर)'
+special_category = ''
+area_english = "Nasirabad, District - Ajmer"
+mla_hindi = 'महेन्द्र सिंह'
+mla_english = 'Sh Mahendra Singh'
+party_english = 'Indian National Congress' 
+party_hindi = 'कांग्रेस'/> 
+ 
+<constituency id = '103'
+area_hindi = 'ब्यावर (अजमेर)'
+special_category = ''
+area_english = "Beawar, District - Ajmer"
+mla_hindi = 'शंकर सिंह रावत'
+mla_english = 'Sh Shankar Singh Rawat'
+party_english = 'Bharatiya Janata Party' 
+party_hindi = 'भाजपा'/> 
+ 
+<constituency id = '104'
+area_hindi = 'मसूदा (अजमेर)'
+special_category = ''
+area_english = "Masuda, District - Ajmer"
+mla_hindi = 'ब्रह्मदेव कुमावत'
+mla_english = 'Sh Brahmdev Kumawat'
+party_english = 'Independent' 
+party_hindi = 'निर्दलीय'/> 
+ 
+<constituency id = '105'
+area_hindi = 'केकड़ी (अजमेर)'
+special_category = ''
+area_english = "Kekri, District - Ajmer"
+mla_hindi = 'डॉ रघु शर्मा'
+mla_english = 'Dr. Raghu Sharma'
+party_english = 'Indian National Congress' 
+party_hindi = 'कांग्रेस'/> 
+ 
+<constituency id = '106'
+area_hindi = 'लाडनूं (नागौर)'
+special_category = ''
+area_english = "Ladnun, District - Nagaur"
+mla_hindi = 'हरजीराम बुरडक'
+mla_english = 'Sh Haraji Ram Burdak'
+party_english = 'Independent' 
+party_hindi = 'निर्दलीय'/> 
+ 
+<constituency id = '107'
+area_hindi = 'डीडवाना (नागौर)'
+special_category = ''
+area_english = "Deedwana, District - Nagaur"
+mla_hindi = 'रूपा राम डूडी'
+mla_english = 'Sh Rupa Ram Dudi'
+party_english = 'Indian National Congress' 
+party_hindi = 'कांग्रेस'/> 
+ 
+<constituency id = '108'
+area_hindi = 'जायल (नागौर)'
+special_category = 'SC'
+area_english = "Jayal (SC), District - Nagaur"
+mla_hindi = 'मंजू देवी'
+mla_english = 'Smt Manju Devi'
+party_english = 'Indian National Congress' 
+party_hindi = 'कांग्रेस'/> 
+ 
+<constituency id = '109'
+area_hindi = 'नागौर (नागौर)'
+special_category = ''
+area_english = "Nagaur, District - Nagaur"
+mla_hindi = 'हबीबुर्रहमान अशरफी लांबा'
+mla_english = 'Sh Habibur Rahaman Ashrafi Lamba'
+party_english = 'Bharatiya Janata Party' 
+party_hindi = 'भाजपा'/> 
+ 
+<constituency id = '110'
+area_hindi = 'खींवसर (नागौर)'
+special_category = ''
+area_english = "Khinvsar, District - Nagaur"
+mla_hindi = 'हनुमान बेनीवाल'
+mla_english = 'Sh Hanuman Bainiwal'
+party_english = 'Bharatiya Janata Party' 
+party_hindi = 'भाजपा'/> 
+ 
+<constituency id = '111'
+area_hindi = 'मेड़ता (नागौर)'
+special_category = 'SC'
+area_english = "Merta (SC), District - Nagaur"
+mla_hindi = 'सुखाराम नेतड़िया'
+mla_english = 'Sh Sukharam Netdiya'
+party_english = 'Bharatiya Janata Party' 
+party_hindi = 'भाजपा'/> 
+ 
+<constituency id = '112'
+area_hindi = 'डेगाना (नागौर)'
+special_category = ''
+area_english = "Degana, District - Nagaur"
+mla_hindi = 'अजय सिंह'
+mla_english = 'Sh Ajay Singh'
+party_english = 'Bharatiya Janata Party' 
+party_hindi = 'भाजपा'/> 
+ 
+<constituency id = '113'
+area_hindi = 'मकराना (नागौर)'
+special_category = ''
+area_english = "Makrana, District - Nagaur"
+mla_hindi = 'जाकिर हुसैन गैसावत'
+mla_english = 'Sh Zakir Hussain Gaisawat'
+party_english = 'Indian National Congress' 
+party_hindi = 'कांग्रेस'/> 
+ 
+<constituency id = '114'
+area_hindi = 'परबतसर (नागौर)'
+special_category = ''
+area_english = "Parbatsar, District - Nagaur"
+mla_hindi = 'मान सिंह'
+mla_english = 'Sh Maan Singh'
+party_english = 'Bharatiya Janata Party' 
+party_hindi = 'भाजपा'/> 
+ 
+<constituency id = '115'
+area_hindi = 'नावां (नागौर)'
+special_category = ''
+area_english = "Nawan, District - Nagaur"
+mla_hindi = 'महेन्द्र चौधरी'
+mla_english = 'Sh Mahendra Choudhary'
+party_english = 'Indian National Congress' 
+party_hindi = 'कांग्रेस'/> 
+ 
+<constituency id = '116'
+area_hindi = 'जैतारण (पाली)'
+special_category = ''
+area_english = "Jaitaran, District - Pali"
+mla_hindi = 'दिलीप चौधरी'
+mla_english = 'Sh Dilip Choudhary'
+party_english = 'Independent' 
+party_hindi = 'निर्दलीय'/> 
+ 
+<constituency id = '117'
+area_hindi = 'सोजत (पाली)'
+special_category = 'SC'
+area_english = "Sojat (SC), District - Pali"
+mla_hindi = 'संजना आगरी'
+mla_english = 'Smt Sanjana Agri'
+party_english = 'Bharatiya Janata Party' 
+party_hindi = 'भाजपा'/> 
+ 
+<constituency id = '118'
+area_hindi = 'पाली (पाली)'
+special_category = ''
+area_english = "Pali, District - Pali"
+mla_hindi = 'ज्ञानचंद पारख'
+mla_english = 'Sh Gyan Chand Parakh'
+party_english = 'Bharatiya Janata Party' 
+party_hindi = 'भाजपा'/> 
+ 
+<constituency id = '119'
+area_hindi = 'मारवाड़ जंक्शन (पाली)'
+special_category = ''
+area_english = "Marwar Junciton, District - Pali"
+mla_hindi = 'केसा राम चौधरी'
+mla_english = 'Sh Kesa Ram Choudhary'
+party_english = 'Bharatiya Janata Party' 
+party_hindi = 'भाजपा'/> 
+ 
+<constituency id = '120'
+area_hindi = 'बाली (पाली)'
+special_category = ''
+area_english = "Bali, District - Pali"
+mla_hindi = 'पुष्पेन्द्र सिंह '
+mla_english = 'Sh Pushpendra Singh'
+party_english = 'Bharatiya Janata Party' 
+party_hindi = 'भाजपा'/> 
+ 
+<constituency id = '121'
+area_hindi = 'सुमेरपुर (पाली)'
+special_category = ''
+area_english = "Sumerpur, District - Pali"
+mla_hindi = 'बीना काक'
+mla_english = 'Bina Kak'
+party_english = 'Indian National Congress' 
+party_hindi = 'कांग्रेस'/> 
+ 
+<constituency id = '122'
+area_hindi = 'फलौदी (जोधपुर)'
+special_category = ''
+area_english = "Phalodi, District - Jodhpur"
+mla_hindi = 'ओमप्रकाश जोशी '
+mla_english = 'Sh Om Parkash Joshi'
+party_english = 'Indian National Congress' 
+party_hindi = 'कांग्रेस'/> 
+ 
+<constituency id = '123'
+area_hindi = 'लोहावट (जोधपुर)'
+special_category = ''
+area_english = "Lohawat, District - Jodhpur"
+mla_hindi = 'गजेन्द्र सिंह खींवसर'
+mla_english = 'Sh Gajendra Singh Khinwsar'
+party_english = 'Bharatiya Janata Party' 
+party_hindi = 'भाजपा'/> 
+ 
+<constituency id = '124'
+area_hindi = 'शेरगढ़ (जोधपुर)'
+special_category = ''
+area_english = "Shergarh, District - Jodhpur"
+mla_hindi = 'बाबु सिंह राठौड़'
+mla_english = 'Sh Babu Singh Rathore'
+party_english = 'Bharatiya Janata Party' 
+party_hindi = 'भाजपा'/> 
+ 
+<constituency id = '125'
+area_hindi = 'ओसियां (जोधपुर)'
+special_category = ''
+area_english = "Osian, District - Jodhpur"
+mla_hindi = 'महिपाल मदेरणा'
+mla_english = 'Sh Mahipal Maderana'
+party_english = 'Indian National Congress' 
+party_hindi = 'कांग्रेस'/> 
+ 
+<constituency id = '126'
+area_hindi = 'भोपालगढ़ (जोधपुर)'
+special_category = 'SC'
+area_english = "Bhopalgarh (SC), District - Jodhpur"
+mla_hindi = 'कमसा मेघवाल'
+mla_english = 'Smt Kamsa Meghwal'
+party_english = 'Bharatiya Janata Party' 
+party_hindi = 'भाजपा'/> 
+ 
+<constituency id = '127'
+area_hindi = 'सरदारपुरा (जोधपुर)'
+special_category = ''
+area_english = "Sardarpura, District - Jodhpur"
+mla_hindi = 'अशोक गहलोत'
+mla_english = 'Sh Ashok Gehlot'
+party_english = 'Indian National Congress' 
+party_hindi = 'कांग्रेस'/> 
+ 
+<constituency id = '128'
+area_hindi = 'जोधपुर (जोधपुर)'
+special_category = ''
+area_english = "Jodhpur, District - Jodhpur"
+mla_hindi = 'कैलाश चंद भंसाली '
+mla_english = 'Sh Kailash Chand Bhansali'
+party_english = 'Bharatiya Janata Party' 
+party_hindi = 'भाजपा'/> 
+ 
+<constituency id = '129'
+area_hindi = 'सूरसागर (जोधपुर)'
+special_category = ''
+area_english = "Soorsagar, District - Jodhpur"
+mla_hindi = 'सूर्यकान्ता व्यास'
+mla_english = 'Smt Suryakanta Vyas'
+party_english = 'Bharatiya Janata Party' 
+party_hindi = 'भाजपा'/> 
+ 
+<constituency id = '130'
+area_hindi = 'लूणी (जोधपुर)'
+special_category = ''
+area_english = "Luni, District - Jodhpur"
+mla_hindi = 'मलखान सिंह'
+mla_english = 'Sh Malkhan Singh'
+party_english = 'Indian National Congress' 
+party_hindi = 'कांग्रेस'/> 
+ 
+<constituency id = '131'
+area_hindi = 'बिलाड़ा (जोधपुर)'
+special_category = 'SC'
+area_english = "Bilara (SC), District - Jodhpur"
+mla_hindi = 'अर्जुन लाल'
+mla_english = 'Sh Arjun Lal'
+party_english = 'Bharatiya Janata Party' 
+party_hindi = 'भाजपा'/> 
+ 
+<constituency id = '132'
+area_hindi = 'जैसलमेर (जैसलमेर)'
+special_category = ''
+area_english = "Jaisalmer, District - Jaisalmer"
+mla_hindi = 'छोटू सिंह भाटी'
+mla_english = 'Sh Chhotu Singh Bhati'
+party_english = 'Bharatiya Janata Party' 
+party_hindi = 'भाजपा'/> 
+ 
+<constituency id = '133'
+area_hindi = 'पोकरण (जैसलमेर)'
+special_category = ''
+area_english = "Pokaran, District - Jaisalmer"
+mla_hindi = 'शाले मोहम्मद'
+mla_english = 'Sh Shaleh Mohammad'
+party_english = 'Indian National Congress' 
+party_hindi = 'कांग्रेस'/> 
+ 
+<constituency id = '134'
+area_hindi = 'शिव (बाड़मेर)'
+special_category = ''
+area_english = "Sheo, District - Barmer"
+mla_hindi = 'अमीन खां'
+mla_english = 'Sh Ameen Khan'
+party_english = 'Indian National Congress' 
+party_hindi = 'कांग्रेस'/> 
+ 
+<constituency id = '135'
+area_hindi = 'बाड़मेर (बाड़मेर)'
+special_category = ''
+area_english = "Barmer, District - Barmer"
+mla_hindi = 'मेवाराम जैन'
+mla_english = 'Sh Mewaram Jain'
+party_english = 'Indian National Congress' 
+party_hindi = 'कांग्रेस'/> 
+ 
+<constituency id = '136'
+area_hindi = 'बायतू (बाड़मेर)'
+special_category = ''
+area_english = "Baytoo, District - Barmer"
+mla_hindi = 'कर्नल सोनाराम चौधरी'
+mla_english = 'Col Sonaram Choudhary'
+party_english = 'Indian National Congress' 
+party_hindi = 'कांग्रेस'/> 
+ 
+<constituency id = '137'
+area_hindi = 'पचपदरा (बाड़मेर)'
+special_category = ''
+area_english = "Pachpadra, District - Barmer"
+mla_hindi = 'मदन प्रजापत'
+mla_english = 'Sh Madan Prajapat'
+party_english = 'Indian National Congress' 
+party_hindi = 'कांग्रेस'/> 
+ 
+<constituency id = '138'
+area_hindi = 'सिवाना (बाड़मेर)'
+special_category = ''
+area_english = "Siwana, District - Barmer"
+mla_hindi = 'कानसिंह कोटडी'
+mla_english = 'Sh Kansingh Kotdi'
+party_english = 'Bharatiya Janata Party' 
+party_hindi = 'भाजपा'/> 
+ 
+<constituency id = '139'
+area_hindi = 'गुड़ामालानी (बाड़मेर)'
+special_category = ''
+area_english = "Gudamalani, District - Barmer"
+mla_hindi = 'हेमाराम चौधरी'
+mla_english = 'Sh Hemaram Choudhary'
+party_english = 'Indian National Congress' 
+party_hindi = 'कांग्रेस'/> 
+ 
+<constituency id = '140'
+area_hindi = 'चौहटन (बाड़मेर)'
+special_category = 'SC'
+area_english = "Chohtan (SC), District - Barmer"
+mla_hindi = 'पदमाराम मेघवाल'
+mla_english = 'Sh Padmaram'
+party_english = 'Indian National Congress' 
+party_hindi = 'कांग्रेस'/> 
+ 
+<constituency id = '141'
+area_hindi = 'आहौर (जालौर)'
+special_category = ''
+area_english = "Ahore, District - Jalore"
+mla_hindi = 'भागराज चौधरी'
+mla_english = 'Sh Bhag Raj Chowdhary'
+party_english = 'Indian National Congress' 
+party_hindi = 'कांग्रेस'/> 
+ 
+<constituency id = '142'
+area_hindi = 'जालौर (जालौर)'
+special_category = 'SC'
+area_english = "Jalore (SC), District - Jalore"
+mla_hindi = 'रामलाल मेघवाल'
+mla_english = 'Sh Ramlal Meghwal'
+party_english = 'Indian National Congress' 
+party_hindi = 'कांग्रेस'/> 
+ 
+<constituency id = '143'
+area_hindi = 'भीनमाल (जालौर)'
+special_category = ''
+area_english = "Bhinmal, District - Jalore"
+mla_hindi = 'पूराराम चौधरी'
+mla_english = 'Sh Poora Ram Choudhary'
+party_english = 'Bharatiya Janata Party' 
+party_hindi = 'भाजपा'/> 
+ 
+<constituency id = '144'
+area_hindi = 'सांचौर (जालौर)'
+special_category = ''
+area_english = "Sanchore, District - Jalore"
+mla_hindi = 'जीवाराम चौधरी'
+mla_english = 'Sh Jeevaram Choudhary'
+party_english = 'Independent' 
+party_hindi = 'निर्दलीय'/> 
+ 
+<constituency id = '145'
+area_hindi = 'रानीवाड़ा (जालौर)'
+special_category = ''
+area_english = "Raniwara, District - Jalore"
+mla_hindi = 'रतन देवासी '
+mla_english = 'Sh Ratan Desai Urf Dewasi'
+party_english = 'Indian National Congress' 
+party_hindi = 'कांग्रेस'/> 
+ 
+<constituency id = '146'
+area_hindi = 'सिरोही (सिरोही)'
+special_category = ''
+area_english = "Sirohi, District - Sirohi"
+mla_hindi = 'ओटाराम देवासी'
+mla_english = 'Sh Otaram Dewasi'
+party_english = 'Bharatiya Janata Party' 
+party_hindi = 'भाजपा'/> 
+ 
+<constituency id = '147'
+area_hindi = 'पिण्डवाड़ा-आबू (सिरोही)'
+special_category = 'ST'
+area_english = "Pindwara-Abu (ST), District - Sirohi"
+mla_hindi = 'गंगाबेन गरासिया'
+mla_english = 'Smt Ganga Ben Garasiya'
+party_english = 'Indian National Congress' 
+party_hindi = 'कांग्रेस'/> 
+ 
+<constituency id = '148'
+area_hindi = 'रेवदर (सिरोही)'
+special_category = 'SC'
+area_english = "Reodar (SC), District - Sirohi"
+mla_hindi = 'जगसीराम कोली '
+mla_english = 'Sh Jagasi Ram Koli'
+party_english = 'Bharatiya Janata Party' 
+party_hindi = 'भाजपा'/> 
+ 
+<constituency id = '149'
+area_hindi = 'गोगुन्दा (उदयपुर)'
+special_category = 'ST'
+area_english = "Gogunda (ST), District - Udaipur"
+mla_hindi = 'मांगीलाल गरासिया'
+mla_english = 'Sh Mangi Lal Garasiya'
+party_english = 'Indian National Congress' 
+party_hindi = 'कांग्रेस'/> 
+ 
+<constituency id = '150'
+area_hindi = 'झाडोल (उदयपुर)'
+special_category = 'ST'
+area_english = "Jhadol (ST), District - Udaipur"
+mla_hindi = 'बाबुलाल खारडी'
+mla_english = 'Sh Babu Lal Kharadi'
+party_english = 'Bharatiya Janata Party' 
+party_hindi = 'भाजपा'/> 
+ 
+<constituency id = '151'
+area_hindi = 'खैरवाड़ा (उदयपुर)'
+special_category = 'ST'
+area_english = "Kherwara (ST), District - Udaipur"
+mla_hindi = 'दयाराम परमार'
+mla_english = 'Dr. Dayaram Parmar'
+party_english = 'Indian National Congress' 
+party_hindi = 'कांग्रेस'/> 
+ 
+<constituency id = '152'
+area_hindi = 'उदयपुर ग्रामीण (उदयपुर)'
+special_category = 'ST'
+area_english = "Udaipur Rural (ST), District - Udaipur"
+mla_hindi = 'सज्जन कटारा'
+mla_english = 'Smt Sajjan Katara'
+party_english = 'Indian National Congress' 
+party_hindi = 'कांग्रेस'/> 
+ 
+<constituency id = '153'
+area_hindi = 'उदयपुर (उदयपुर)'
+special_category = ''
+area_english = "Udaipur, District - Udaipur"
+mla_hindi = 'गुलाब चंद कटारिया'
+mla_english = 'Sh Gulab Chand Kataria'
+party_english = 'Bharatiya Janata Party' 
+party_hindi = 'भाजपा'/> 
+ 
+<constituency id = '154'
+area_hindi = 'मावली (उदयपुर)'
+special_category = ''
+area_english = "Mavli, District - Udaipur"
+mla_hindi = 'पुष्कर लाल'
+mla_english = 'Sh Pushkar Lal'
+party_english = 'Indian National Congress' 
+party_hindi = 'कांग्रेस'/> 
+ 
+<constituency id = '155'
+area_hindi = 'वल्लभनगर (उदयपुर)'
+special_category = ''
+area_english = "Vallabnagar, District - Udaipur"
+mla_hindi = 'गजेन्द्र सिंह शक्तावत'
+mla_english = 'Sh Gajendra Singh Shaktawat'
+party_english = 'Indian National Congress' 
+party_hindi = 'कांग्रेस'/> 
+ 
+<constituency id = '156'
+area_hindi = 'सलूम्बर (उदयपुर)'
+special_category = 'ST'
+area_english = "Salumber (ST), District - Udaipur"
+mla_hindi = 'बसंती देवी मीणा'
+mla_english = 'Smt Basanti Devi Meena'
+party_english = 'Indian National Congress' 
+party_hindi = 'कांग्रेस'/> 
+ 
+<constituency id = '157'
+area_hindi = 'धरियावद (प्रतापगढ़)'
+special_category = 'ST'
+area_english = "Dhariawad (ST), District - Pratapgargh"
+mla_hindi = 'नागराज '
+mla_english = 'Sh Nagraj'
+party_english = 'Indian National Congress' 
+party_hindi = 'कांग्रेस'/> 
+ 
+<constituency id = '158'
+area_hindi = 'डूंगरपुर (डूंगरपुर)'
+special_category = 'ST'
+area_english = "Dungarpur (ST), District - Dungarpur"
+mla_hindi = 'लालशंकर घाटिया'
+mla_english = 'Sh Lal Shankar Gatiya'
+party_english = 'Indian National Congress' 
+party_hindi = 'कांग्रेस'/> 
+ 
+<constituency id = '159'
+area_hindi = 'आसपुर (डूंगरपुर)'
+special_category = 'ST'
+area_english = "Aspur (ST), District - Dungarpur"
+mla_hindi = 'राईया मीणा'
+mla_english = 'Sh Raiya Meena'
+party_english = 'Indian National Congress' 
+party_hindi = 'कांग्रेस'/> 
+ 
+<constituency id = '160'
+area_hindi = 'सागवाड़ा (डूंगरपुर)'
+special_category = 'ST'
+area_english = "Sagwara (ST), District - Dungarpur"
+mla_hindi = 'सुरेन्द्र कुमार'
+mla_english = 'Sh Surendra Kumar'
+party_english = 'Indian National Congress' 
+party_hindi = 'कांग्रेस'/> 
+ 
+<constituency id = '161'
+area_hindi = 'चौरासी (डूंगरपुर)'
+special_category = 'ST'
+area_english = "Chorasi (ST), District - Dungarpur"
+mla_hindi = 'शंकरलाल अहारी'
+mla_english = 'Sh Shankar Lal Ahari'
+party_english = 'Indian National Congress' 
+party_hindi = 'कांग्रेस'/> 
+ 
+<constituency id = '162'
+area_hindi = 'घाटोल (बांसवाड़ा)'
+special_category = 'ST'
+area_english = "Ghatol (ST), District - Banswara"
+mla_hindi = 'नानालाल निनामा'
+mla_english = 'Sh Nanalal Ninama'
+party_english = 'Independent'  
+party_hindi = 'निर्दलीय'/> 
+ 
+<constituency id = '163'
+area_hindi = 'गढ़ी (बांसवाड़ा)'
+special_category = 'ST'
+area_english = "Garhi (ST), District - Banswara"
+mla_hindi = 'कांता गरासिया '
+mla_english = 'Smt Kanta Garasia'
+party_english = 'Indian National Congress' 
+party_hindi = 'कांग्रेस'/> 
+ 
+<constituency id = '164'
+area_hindi = 'बांसवाड़ा (बांसवाड़ा)'
+special_category = 'ST'
+area_english = "Banswara (ST), District - Banswara"
+mla_hindi = 'अर्जुन सिंह बामनिया '
+mla_english = 'Sh Arjun Singh Bamaniya'
+party_english = 'Indian National Congress' 
+party_hindi = 'कांग्रेस'/> 
+ 
+<constituency id = '165'
+area_hindi = 'बागीदौरा (बांसवाड़ा)'
+special_category = 'ST'
+area_english = "Bagidora (ST), District - Banswara"
+mla_hindi = 'महेन्द्रजीत सिंह'
+mla_english = 'Sh Mahendrajeet Singh'
+party_english = 'Indian National Congress' 
+party_hindi = 'कांग्रेस'/> 
+ 
+<constituency id = '166'
+area_hindi = 'कुशलगढ़ (बांसवाड़ा)'
+special_category = 'ST'
+area_english = "Kushalgarh (ST), District - Banswara"
+mla_hindi = 'फतेह सिंह'
+mla_english = 'Sh Fateh Singh'
+party_english = 'Janata Dal (United)' 
+party_hindi = 'जनता दल(यू)'/> 
+ 
+<constituency id = '167'
+area_hindi = 'कपासन (चित्तौड़गढ़)'
+special_category = 'SC'
+area_english = "Kapasan (SC), District - Chittorgargh"
+mla_hindi = 'शंकरलाल बैरवा'
+mla_english = 'Sh Shankar Lal Bairwa'
+party_english = 'Indian National Congress' 
+party_hindi = 'कांग्रेस'/> 
+ 
+<constituency id = '168'
+area_hindi = 'बेगूं (चित्तौड़गढ़)'
+special_category = ''
+area_english = "Begun, District - Chittorgargh"
+mla_hindi = 'राजेंद्र सिंह विधुड़ी '
+mla_english = 'Sh Rajender Singh Bidhudi'
+party_english = 'Indian National Congress' 
+party_hindi = 'कांग्रेस'/> 
+ 
+<constituency id = '169'
+area_hindi = 'चित्तौड़गढ़ (चित्तौड़गढ़)'
+special_category = ''
+area_english = "Chittorgarh, District - Chittorgargh"
+mla_hindi = 'सुरेन्द्र सिंह जाड़ावत'
+mla_english = 'Sh Surendra Singh Jadawat'
+party_english = 'Indian National Congress' 
+party_hindi = 'कांग्रेस'/> 
+ 
+<constituency id = '170'
+area_hindi = 'निम्बाहेड़ा (चित्तौड़गढ़)'
+special_category = ''
+area_english = "Nimbahera, District - Chittorgargh"
+mla_hindi = 'उदयलाल आंजना'
+mla_english = 'Sh Udailal Anjana'
+party_english = 'Indian National Congress' 
+party_hindi = 'कांग्रेस'/> 
+ 
+<constituency id = '171'
+area_hindi = 'बड़ी सादड़ी (चित्तौड़गढ़)'
+special_category = ''
+area_english = "Bari Sadri, District - Chittorgargh"
+mla_hindi = 'प्रकाश चन्द्र चौधरी'
+mla_english = 'Sh Prakash Chandra Chaudhary'
+party_english = 'Indian National Congress' 
+party_hindi = 'कांग्रेस'/> 
+ 
+<constituency id = '172'
+area_hindi = 'प्रतापगढ़ (प्रतापगढ़)'
+special_category = 'ST'
+area_english = "Pratapgarh (ST), District - Pratapgargh"
+mla_hindi = 'नन्दलाल मीणा'
+mla_english = 'Sh Nandlal Meena'
+party_english = 'Bharatiya Janata Party' 
+party_hindi = 'भाजपा'/> 
+ 
+<constituency id = '173'
+area_hindi = 'भीम (राजसमन्द)'
+special_category = ''
+area_english = "Bhim, District - Rajsamand"
+mla_hindi = 'हरी सिंह रावत'
+mla_english = 'Sh Hari Singh Rawat'
+party_english = 'Bharatiya Janata Party' 
+party_hindi = 'भाजपा'/> 
+ 
+<constituency id = '174'
+area_hindi = 'कुम्भलगढ़ (राजसमन्द)'
+special_category = ''
+area_english = "Kumbhalgarh, District - Rajsamand"
+mla_hindi = 'गणेश सिंह परमार'
+mla_english = 'Sh Ganesh Singh Parmar'
+party_english = 'Indian National Congress' 
+party_hindi = 'कांग्रेस'/> 
+ 
+<constituency id = '175'
+area_hindi = 'राजसमन्द (राजसमन्द)'
+special_category = ''
+area_english = "Rajsamand, District - Rajsamand"
+mla_hindi = 'किरण माहेश्वरी'
+mla_english = 'Smt Kiran Maheshwari'
+party_english = 'Bharatiya Janata Party' 
+party_hindi = 'भाजपा'/> 
+ 
+<constituency id = '176'
+area_hindi = 'नाथद्वारा (राजसमन्द)'
+special_category = ''
+area_english = "Nathdwara, District - Rajsamand"
+mla_hindi = 'कल्याण सिंह चौहान'
+mla_english = 'Sh Kalyan Singh Chouhan'
+party_english = 'Bharatiya Janata Party' 
+party_hindi = 'भाजपा'/> 
+ 
+<constituency id = '177'
+area_hindi = 'आसीन्द (भीलवाड़ा)'
+special_category = ''
+area_english = "Asind, District - Bhilwara"
+mla_hindi = 'रामलाल गुर्जर'
+mla_english = 'Sh Ramlal Gurjar'
+party_english = 'Bharatiya Janata Party' 
+party_hindi = 'भाजपा'/> 
+ 
+<constituency id = '178'
+area_hindi = 'माण्डल (भीलवाड़ा)'
+special_category = ''
+area_english = "Mandal, District - Bhilwara"
+mla_hindi = 'रामलाल'
+mla_english = 'Sh Ram Lal'
+party_english = 'Indian National Congress' 
+party_hindi = 'कांग्रेस'/> 
+ 
+<constituency id = '179'
+area_hindi = 'सहाड़ा (भीलवाड़ा)'
+special_category = ''
+area_english = "Sahara, District - Bhilwara"
+mla_hindi = 'कैलाश चन्द्र त्रिवेदी'
+mla_english = 'Sh Kailash Chandra Trivedi'
+party_english = 'Indian National Congress' 
+party_hindi = 'कांग्रेस'/> 
+ 
+<constituency id = '180'
+area_hindi = 'भीलवाड़ा (भीलवाड़ा)'
+special_category = ''
+area_english = "Bhilwara, District - Bhilwara"
+mla_hindi = 'विटठ्ल शंकर अवस्थी'
+mla_english = 'Sh Vitthalshankar Avasthi'
+party_english = 'Bharatiya Janata Party' 
+party_hindi = 'भाजपा'/> 
+ 
+<constituency id = '181'
+area_hindi = 'शाहपुरा (भीलवाड़ा)'
+special_category = 'SC'
+area_english = "Shahpura (SC), District - Bhilwara"
+mla_hindi = 'महावीर प्रसाद जीनगर'
+mla_english = 'Sh Mahaveer Prasad Jingar'
+party_english = 'Indian National Congress' 
+party_hindi = 'कांग्रेस'/> 
+ 
+<constituency id = '182'
+area_hindi = 'जहाजपुर (भीलवाड़ा)'
+special_category = ''
+area_english = "Jahazpur (), District - Bhilwara"
+mla_hindi = 'शिवजीराम मीणा'
+mla_english = 'Sh Shivjiram Meena'
+party_english = 'Bharatiya Janata Party' 
+party_hindi = 'भाजपा'/> 
+ 
+<constituency id = '183'
+area_hindi = 'माण्डलगढ़ (भीलवाड़ा)'
+special_category = ''
+area_english = "Mandalgarh, District - Bhilwara"
+mla_hindi = 'प्रदीप कुमार सिंह'
+mla_english = 'Sh Pradeep Kumar Singh'
+party_english = 'Indian National Congress' 
+party_hindi = 'कांग्रेस'/> 
+ 
+<constituency id = '184'
+area_hindi = 'हिण्डौली (बूंदी)'
+special_category = ''
+area_english = "Hindoli, District - Bundi"
+mla_hindi = 'प्रभुलाल सैनी'
+mla_english = 'Sh Prabhu Lal Saini'
+party_english = 'Bharatiya Janata Party' 
+party_hindi = 'भाजपा'/> 
+ 
+<constituency id = '185'
+area_hindi = 'केशोरायपाटन (बूंदी)'
+special_category = 'SC'
+area_english = "Keshoraipatan (SC), District - Bundi"
+mla_hindi = 'सी एल प्रेमी'
+mla_english = 'Sh C. L. Premi'
+party_english = 'Indian National Congress' 
+party_hindi = 'कांग्रेस'/> 
+ 
+<constituency id = '186'
+area_hindi = 'बूंदी (बूंदी)'
+special_category = ''
+area_english = "Bundi, District - Bundi"
+mla_hindi = 'अशोक डोगरा '
+mla_english = 'Sh Ashok Dogara'
+party_english = 'Bharatiya Janata Party' 
+party_hindi = 'भाजपा'/> 
+ 
+<constituency id = '187'
+area_hindi = 'पीपल्दा (कोटा)'
+special_category = ''
+area_english = "Pipalda, District - Kota"
+mla_hindi = 'प्रेम चन्द नागर'
+mla_english = 'Sh Premchand Nagar'
+party_english = 'Indian National Congress' 
+party_hindi = 'कांग्रेस'/> 
+ 
+<constituency id = '188'
+area_hindi = 'सांगोद (कोटा)'
+special_category = ''
+area_english = "Sangod, District - Kota"
+mla_hindi = 'भरत सिंह कुन्दनपुर'
+mla_english = 'Sh Bharat Singh Kundanpur'
+party_english = 'Indian National Congress' 
+party_hindi = 'कांग्रेस'/> 
+ 
+<constituency id = '189'
+area_hindi = 'कोटा उत्तर (कोटा)'
+special_category = ''
+area_english = "Kota North, District - Kota"
+mla_hindi = 'शांति धारीवाल'
+mla_english = 'Sh Shanti Kumar Dhariwal'
+party_english = 'Indian National Congress' 
+party_hindi = 'कांग्रेस'/> 
+ 
+<constituency id = '190'
+area_hindi = 'कोटा दक्षिण (कोटा)'
+special_category = ''
+area_english = "Kota South, District - Kota"
+mla_hindi = 'ओम बिरला'
+mla_english = 'Sh Om Birla'
+party_english = 'Bharatiya Janata Party' 
+party_hindi = 'भाजपा'/> 
+ 
+<constituency id = '191'
+area_hindi = 'लाडपुरा (कोटा)'
+special_category = ''
+area_english = "Ladpura, District - Kota"
+mla_hindi = 'भवानी सिंह राजावत'
+mla_english = 'Sh Bhawani Singh Rajawat'
+party_english = 'Bharatiya Janata Party' 
+party_hindi = 'भाजपा'/> 
+ 
+<constituency id = '192'
+area_hindi = 'रामगंज मण्डी (कोटा)'
+special_category = 'SC'
+area_english = "Ramganj Mandi (SC), District - Kota"
+mla_hindi = 'चंद्रकांता मेघवाल'
+mla_english = 'Smt Chandrakanta Meghwal'
+party_english = 'Bharatiya Janata Party' 
+party_hindi = 'भाजपा'/> 
+ 
+<constituency id = '193'
+area_hindi = 'अन्ता (बारां)'
+special_category = ''
+area_english = "Anta, District - Baran"
+mla_hindi = 'प्रमोद जैन भाया'
+mla_english = 'Sh Pramod Jain Bhaya'
+party_english = 'Indian National Congress' 
+party_hindi = 'कांग्रेस'/> 
+ 
+<constituency id = '194'
+area_hindi = 'किशनगंज (बारां)'
+special_category = 'ST'
+area_english = "Kishanganj (ST), District - Baran"
+mla_hindi = 'निर्मला सहरिया '
+mla_english = 'Smt Nirmala Sahria'
+party_english = 'Indian National Congress' 
+party_hindi = 'कांग्रेस'/> 
+ 
+<constituency id = '195'
+area_hindi = 'बारां-अटरू (बारां)'
+special_category = 'SC'
+area_english = "Baran-Atru (SC), District - Baran"
+mla_hindi = 'पानाचन्द'
+mla_english = 'Sh Panachand'
+party_english = 'Indian National Congress' 
+party_hindi = 'कांग्रेस'/> 
+ 
+<constituency id = '196'
+area_hindi = 'छबड़ा (बारां)'
+special_category = ''
+area_english = "Chhabra, District - Baran"
+mla_hindi = 'करण सिंह'
+mla_english = 'Sh Karan Singh'
+party_english = 'Indian National Congress' 
+party_hindi = 'कांग्रेस'/> 
+ 
+<constituency id = '197'
+area_hindi = 'डग (झालावाड़)'
+special_category = 'SC'
+area_english = "Dag (SC), District - Jhalawar"
+mla_hindi = 'मदन लाल वर्मा'
+mla_english = 'Sh Madan Lal Verma'
+party_english = 'Indian National Congress' 
+party_hindi = 'कांग्रेस'/> 
+ 
+<constituency id = '198'
+area_hindi = 'झालरापाटन (झालावाड़)'
+special_category = ''
+area_english = "Jhalrapatan, District - Jhalawar"
+mla_hindi = 'वसुंधरा राजे'
+mla_english = 'Smt Vasundhara Raje'
+party_english = 'Bharatiya Janata Party' 
+party_hindi = 'भाजपा'/> 
+ 
+<constituency id = '199'
+area_hindi = 'खानपुर (झालावाड़)'
+special_category = ''
+area_english = "Khanpur, District - Jhalawar"
+mla_hindi = 'अनिल जैन'
+mla_english = 'Sh Anil jain'
+party_english = 'Bharatiya Janata Party'
+party_hindi = 'भाजपा'/> 
+ 
+<constituency id = '200'
+area_hindi = 'मनोहरथाना (झालावाड़)'
+special_category = ''
+area_english = "Manohar Thana (), District - Jhalawar"
+mla_hindi = 'कैलाश चंद मीणा'
+mla_english = 'Sh Kailash Chand Meena'
+party_english = 'Indian National Congress' 
+party_hindi = 'कांग्रेस'/> 
+ 
+</constituencys>

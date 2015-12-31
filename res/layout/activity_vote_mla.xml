@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:background="@drawable/background">
+
+    <TextView
+        android:id="@+id/volunteer_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="50dp"
+        android:text="@string/choose_mla"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+    
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="30dp"
+            android:layout_marginLeft="25dp"
+            android:layout_marginRight="25dp"
+            android:layout_marginTop="5dp"
+            android:orientation="vertical" >
+
+    <EditText
+        android:id="@+id/input_mla_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:ems="10"
+        android:inputType="text"
+        android:visibility="gone" >
+
+        <requestFocus />
+    </EditText>
+
+    <Button
+        android:id="@+id/add_mla_name"
+        android:layout_width="match_parent"
+        android:layout_height="33dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_margin="5dp"
+        android:background="@drawable/blue_bar"
+        android:onClick="onUpdateMla"
+        android:text="@string/update_hindi"
+        android:visibility="gone" />
+    
+     <ListView
+         android:id="@+id/mla_listview"
+         android:layout_width="match_parent"
+         android:layout_height="0dip"
+         android:layout_marginTop="5dp"
+         android:layout_weight="1.0"
+         android:scrollbarAlwaysDrawVerticalTrack="true" >
+
+    </ListView>
+    
+       <Button
+           android:id="@+id/mla_update_button"
+           android:layout_width="match_parent"
+           android:layout_height="33dp"
+           android:layout_gravity="bottom"
+           android:layout_marginBottom="10dp"
+           android:layout_marginLeft="5dp"
+           android:layout_marginRight="5dp"
+           android:layout_marginTop="5dp"
+           android:background="@drawable/blue_bar"
+           android:onClick="onUpdateMla"
+           android:text="@string/update_hindi"
+           android:visibility="visible" />
+       
+       </LinearLayout>
+
+</LinearLayout>
